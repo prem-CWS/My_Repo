@@ -1,0 +1,18 @@
+
+
+#CWS96
+
+Device name	PremMankarCWS96-05April2026
+Processor	Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz   2.60 GHz
+Installed RAM	4.00 GB (3.82 GB usable)
+Device ID	66687429-5914-4739-B607-96F51D22E140
+Product ID	00330-50000-00000-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+Edition	Windows 10 Pro
+Version	22H2
+Installed on	‎25-‎03-‎2026
+OS build	19045.3803
+Experience	Windows Feature Experience Pack 1000.19053.1000.0
+
